@@ -19,8 +19,8 @@ To run VideoVerse locally, you need to have the following dependencies installed
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/videoverse.git
+   ```bash
+   git clone https://github.com/your-username/videoverse.git
 
 2. Navigate to the project directory:
 
@@ -31,4 +31,3 @@ git clone https://github.com/your-username/videoverse.git
 
    ```bash
    npm install
-
