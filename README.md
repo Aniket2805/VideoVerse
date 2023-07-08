@@ -8,16 +8,6 @@ Welcome to VideoVerse! VideoVerse is a website where you can explore and discove
 
 - **Search Functionality:** Looking for something specific? Use the search bar to find videos based on keywords, titles, or descriptions. VideoVerse will quickly fetch the most relevant results for you.
 
-## Getting Started
-
-To get started with VideoVerse, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/videoverse.git
-
-
 ## Requirements
 
 To run VideoVerse locally, you need to have the following dependencies installed:
@@ -34,11 +24,11 @@ git clone https://github.com/your-username/videoverse.git
 
 2. Navigate to the project directory:
 
-```bash
-cd videoverse
+   ```bash
+   cd videoverse
 
 3. Install the required dependencies:
 
-```bash
-npm install
+   ```bash
+   npm install
 
